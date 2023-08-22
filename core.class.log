@@ -1,0 +1,28 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573002167901@s.whatsapp.net',
+    fromMe: false,
+    id: 'C154492C9C10C0428D330D00DD6BA16B',
+    participant: undefined
+  },
+  messageTimestamp: 1692739847,
+  pushName: "Auto System's",
+  broadcast: false,
+  message: Message {
+    conversation: '_Seguir el procedimiento descrito en el audio o envía directamente la palabra:_\n' +
+      '\n' +
+      '*menu* para comprar plataformas streaming.\n' +
+      '\n' +
+      'O *asesor* para servicios de automatización.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_Seguir el procedimiento descrito en el audio o envía directamente la palabra:_\n' +
+    '\n' +
+    '*menu* para comprar plataformas streaming.\n' +
+    '\n' +
+    'O *asesor* para servicios de automatización.',
+  from: '573002167901'
+}
