@@ -159,7 +159,7 @@ envia una lista a un contacto
     res.send("PRENDIDO");
   });
 
-  const PORT = 4000;
+   const PORT = process.env.PORT || 4000;
   app.listen(PORT, () => console.log(`http://localhost:${PORT}`));
 
   QRPortalWeb();
